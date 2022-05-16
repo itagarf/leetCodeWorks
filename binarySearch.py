@@ -3,6 +3,7 @@
 #You must write an algorithm with O(log n) runtime complexity.
 
 
+
 def b_search(nums, target):
   beg_index = 0
   end_index = len(nums)-1
